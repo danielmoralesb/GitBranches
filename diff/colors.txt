@@ -1,9 +1,10 @@
-red
+maroon
 orange
 yellow
-blue
 green
+violet
 purple
 brown
 black
 grey
+white
