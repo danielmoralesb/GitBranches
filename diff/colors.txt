@@ -7,4 +7,3 @@ purple
 brown
 black
 grey
-white
