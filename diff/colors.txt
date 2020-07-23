@@ -13,4 +13,7 @@ navy
 white
 orange
 turquoise
-
+new color
+new color 2
+new color 3
+new color 4
