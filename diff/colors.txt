@@ -1,9 +1,16 @@
 maroon
 orange
-yellow
+red
 green
 violet
 purple
 brown
 black
 grey
+white
+charcoal
+navy
+white
+orange
+turquoise
+
